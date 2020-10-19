@@ -335,7 +335,3 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker.bt4g.com:2095/announce
 
 http://t.acg.rip:6699/announce
-
-http://siena.crazyhd.com/announce
-
-https://tracker.torrentbd.net/announce
